@@ -1,0 +1,75 @@
+@media screen and (max-width: 1000px) {
+    .offers{
+        overflow: scroll;
+    }
+    nav {
+        flex-direction: column;
+    }
+
+    .logo1 {
+        justify-content: center;
+        margin-top: 5px;
+    }
+
+    .logo2 {
+        justify-content: center;
+        margin-top: 4px;
+    }
+
+    nav ul {
+        justify-content: center;
+        align-items: center;
+    }
+    .search{
+        justify-content: center;
+        align-items: center;
+    }
+    .cart{
+        justify-content: center;
+        margin-right: 60px;
+        margin-bottom: 40px;
+    }
+    .card-items{
+        width: 150px;
+    }
+    .cards{
+        overflow: scroll;
+    }
+    .bank img{
+        overflow:scroll ;
+        height: 20vh;
+    }
+    .offersimg{
+        overflow: scroll;
+        height: 170px;
+    }
+    .offers-items img{
+        height: 150px;
+        width: 170px;
+    }
+    .offers-items2 img{
+        height: 150px;
+        width: 170px;
+    }
+    .offers-items3 img{
+        height: 150px;
+        width: 170px;
+    }
+    .shopping img{
+        height: 200px;
+    }
+    .footersection{
+        overflow: scroll;
+    }
+    .menu{
+        justify-content: center;
+        align-items: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .searchlogo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
